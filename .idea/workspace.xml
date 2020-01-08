@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5811a66b-87a1-4420-870c-57a965097149" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UsKfDiJAcGuP132YNehCwDuKJP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../swingdemo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Gradle tasks" flag="false" />
+      <visibility group="Grunt tasks" flag="false" />
+      <visibility group="Gulp tasks" flag="false" />
+      <visibility group="Maven goals" flag="false" />
+      <visibility group="Node.js" flag="false" />
+      <visibility group="Recent projects" flag="false" />
+      <visibility group="Run configurations" flag="false" />
+      <visibility group="npm" flag="false" />
+    </myKeys>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Login" />
+      <module name="Version1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5811a66b-87a1-4420-870c-57a965097149" name="Default Changelist" comment="" />
+      <created>1576139963653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576139963653</updated>
+      <workItem from="1576139965193" duration="3431000" />
+      <workItem from="1576220999759" duration="11317000" />
+      <workItem from="1576233797026" duration="125000" />
+      <workItem from="1576234046444" duration="4886000" />
+      <workItem from="1576243542166" duration="1597000" />
+      <workItem from="1576767367883" duration="26000" />
+      <workItem from="1577358389583" duration="12118000" />
+      <workItem from="1577414053714" duration="8103000" />
+      <workItem from="1577436154562" duration="4888000" />
+      <workItem from="1577442072521" duration="28327000" />
+      <workItem from="1577583908826" duration="5591000" />
+      <workItem from="1577599236202" duration="223000" />
+      <workItem from="1577599497569" duration="46000" />
+      <workItem from="1577603844909" duration="5409000" />
+      <workItem from="1577614984383" duration="6374000" />
+      <workItem from="1577621428334" duration="11675000" />
+      <workItem from="1577667941191" duration="22041000" />
+      <workItem from="1577852048223" duration="3502000" />
+      <workItem from="1578035784534" duration="608000" />
+      <workItem from="1578140074476" duration="2000" />
+      <workItem from="1578140201059" duration="8335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/AssSelectInfo.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
